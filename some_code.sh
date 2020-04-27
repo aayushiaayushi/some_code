@@ -3,3 +3,4 @@
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "added somethjng"
+echo " last"
